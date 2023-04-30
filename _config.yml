@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "soyeon_park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "잡다한 것들의 모음"
+  location         : "Handong"
+  email            : "eu2goo@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
