@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "잡다한 것들의 모음"
   location         : "Handong"
-  email            : "eu2goo@gamil.com"
+  email            : "eu2goo@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "으이구 공부 좀 해라!!"
 date:   2023-04-30 19:23:43 +0900
 categories: jekyll update
 ---
